@@ -33,6 +33,3 @@ React와 TypeScript를 기반으로 사용자 친화적인 UI/UX를 구현하며
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
-
-## til
-https://github.com/100-hours-a-week/mia-til
