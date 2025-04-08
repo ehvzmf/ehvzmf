@@ -1,21 +1,5 @@
 ## Yuna Choi / Mia
-다양한 시각과 피드백의 중요성을 이해하고 소통을 통해 더 나은 서비스를 만들어가는 개발자, 최유나입니다. 
-<br />
-React와 TypeScript를 기반으로 사용자 친화적인 UI/UX를 구현하며, 빠르고 직관적인 서비스를 개발하는 것을 목표합니다.
-<br />
-<br />
-
-## My Values
-- 책임감
-- 아이디어
-- 소통
-
-## How I work
-- 꼼꼼한 기록
-- 모르는 건 대충 넘어가지 않기
-- 도구 잘 활용하기
-<br />
-<br />
+나는 멋진 프엔 ! 
 
 ## Skills
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
