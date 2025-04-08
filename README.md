@@ -1,5 +1,6 @@
 ## Yuna Choi / Mia
-나는 멋진 프엔 ! 
+풀스택이 되어야지. 
+멋진 풀스택이 되어서 다 패버릴거야
 
 ## Skills
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
