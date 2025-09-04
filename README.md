@@ -1,7 +1,17 @@
 ## Yuna Choi / Mia
-풀스택이 되어야지. 
+
+### 🎯 About Me
+```javascript
+const yuna = {
+    currentGoal: "Becoming an amazing full-stack developer",
+    mindset: "Ready to conquer everything! 💪",
+    passion: ["Clean Code", "User Experience", "Problem Solving"],
+    currentlyBuilding: "Awesome web applications",
+    funFact: "I believe great products start with great people"
+};
+```
+
 <br />
-멋진 풀스택이 되어서 다 패버릴거야
 
 ### **💻 Currently Using**
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0;">
@@ -30,4 +40,15 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
+
+<br />
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehvzmf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehvzmf&layout=compact&langs_count=8&theme=radical"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak Stats" />
 </div>
